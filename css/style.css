@@ -377,9 +377,9 @@ table
   font-size: 10px;
 }
 
-/* this part is for catalog css */
-#catalog
-{ float: right;
+/* this part is for content css */
+#content
+{ margin-left: 198px;
   width: 550px;  
   background: #D4CAB6;
 }
